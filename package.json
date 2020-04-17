@@ -37,7 +37,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
     "eslint": "^6.8.0",
@@ -56,7 +55,5 @@
       "style": "eslint",
       "options": {}
     }
-=======
->>>>>>> b9ce517a4f6dbdd86dddf6c40ab5b2e8677cb44c
   }
 }
